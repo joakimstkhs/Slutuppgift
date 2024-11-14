@@ -1,0 +1,14 @@
+Sammanfattning av Uppstartsmöte
+
+Vi läser in alla objekt destinationer ifrån json filen, och så skapas med en konstructor en ny nod för varje destination.  
+
+Varje nod innehåller namn och longitud och latitud dem kan benämnas som x och y koordinater. Noderna skall också innehålla vikterna i grafen. 
+
+Sen låter vi Dijkstras algoritm hitta kortaste vägen mellan noderna. Detta skall skrivas ut i listan i programmet. 
+Vi funderar lite på hur vi skall sätta ut noderna med koordinaterna fönstren. Låta algoritmen hitta origo eller ej? mm.
+
+Inte ändra i Main utan göra ny branches för varje feature innan vi gör en Merge på GITHUB.
+
+Göra första Mergen efter mötet på måndag när vi kollat koden tillsammans.
+
+Vi lägger till en ny sprint på Trello när vi kommer på något som behöver göras så kan vi stämma av den listan på mötena.
