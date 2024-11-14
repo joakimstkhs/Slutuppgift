@@ -9,3 +9,4 @@
 - - Vias linjer mellan noderna
   - - Visa hur lång tid det tar att hitta kortaste vägen
 - Använda Trello
+- Se till att nyttja Feature Branches med git
