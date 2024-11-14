@@ -8,4 +8,4 @@
 - GUI för att visa noder i en graf, relativt till varandra (eller med koordinater)
 - - Vias linjer mellan noderna
   - - Visa hur lång tid det tar att hitta kortaste vägen
-- 
+- Använda Trello
